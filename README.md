@@ -1,5 +1,6 @@
-####Lars' Notes
+# Lars' Notes
 
-##SUMMARY
+## SUMMARY
 
 This repository contains all of the notes taken by [Lars](https://github.com/larsyaeger) for the [Lighthouse Labs](https://lighthouselabs.ca) Web Development Bootcamp.
+
